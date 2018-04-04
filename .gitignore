@@ -1,3 +1,2 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+# Exlcude OS X folder attributes
+.DS_store
