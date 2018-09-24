@@ -20,8 +20,8 @@ main {
   filter: alpha(opacity=70); /* For IE8 and earlier */
 }
 #text {
-  margin-top: 50px;
-  margin-bottom: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   padding: 10px;
   color: #ffffff;
   background-color: #000000;
